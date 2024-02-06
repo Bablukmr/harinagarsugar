@@ -1782,7 +1782,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #3b8af2;
+  background: #313d4d;
   color: #fff;
   text-decoration: none;
 }
@@ -1807,4 +1807,9 @@ section {
     text-align: center;
     padding: 2px 0;
   }
+}
+
+.copyrightss{
+  background-color: #0d58ba;
+  width: 100%;
 }
